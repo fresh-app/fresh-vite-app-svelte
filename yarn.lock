@@ -35,9 +35,9 @@ debug@^4.3.2:
     ms "2.1.2"
 
 esbuild@^0.12.17:
-  version "0.12.23"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.12.23.tgz#fd40d70d3ec5e7893d8c5be655e3e38d096dd882"
-  integrity sha512-qvS4aKnmKikoWGscd5lVAzgobMovlH/JhaWitRiQ8xJx0x1Fym0pqVjMFs43Nvff8WpibeWm+fWoLK88T1U0Xw==
+  version "0.12.24"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.12.24.tgz#21966fad25a80f368ed308101e88102bce0dc68f"
+  integrity sha512-C0ibY+HsXzYB6L/pLWEiWjMpghKsIc58Q5yumARwBQsHl9DXPakW+5NI/Y9w4YXiz0PEP6XTGTT/OV4Nnsmb4A==
 
 estree-walker@^2.0.1:
   version "2.0.2"
@@ -145,9 +145,9 @@ svelte-hmr@^0.14.7:
   integrity sha512-pDrzgcWSoMaK6AJkBWkmgIsecW0GChxYZSZieIYfCP0v2oPyx2CYU/zm7TBIcjLVUPP714WxmViE9Thht4etog==
 
 svelte@^3.37.0:
-  version "3.42.3"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.3.tgz#a7687a43ff6aa12263e03cf56219cd21eff5372d"
-  integrity sha512-pbdtdNZEx2GBqSM6XEgPoHbwtvWBwFLt/1bRmzsyXZO+i424wFnPe7O5B3GOJDPFSxPRztumAW3mL5LPzecWUg==
+  version "3.42.4"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.4.tgz#838ed98fa7b26fc5fffe4df0d7ba345f1c54cf4f"
+  integrity sha512-DqC0AmDdBrrbIA+Kzl3yhBb6qCn4vZOAfxye2pTnIpinLegyagC5sLI8Pe9GPlXu9VpHBXIwpDDedpMfu++epA==
 
 vite@^2.5.1:
   version "2.5.1"
