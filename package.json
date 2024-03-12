@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^3.0.2",
-    "svelte": "^4.2.11",
-    "vite": "^5.1.4"
+    "svelte": "^4.2.12",
+    "vite": "^5.1.6"
   },
   "packageManager": "pnpm@8.15.4+sha1.c85a4305534f76d461407b59277b954bac97b5c4"
 }
